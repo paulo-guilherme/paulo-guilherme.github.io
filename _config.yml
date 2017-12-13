@@ -1,2 +1,3 @@
 name: Paulo Guilherme
 markdown: personal page
+permalink: /blog/:year/:month/:day/:title
