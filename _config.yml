@@ -1,4 +1,4 @@
 name: Paulo Guilherme
 markdown: personal page
 permalink: /blog/:year/:month/:day/:title
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
